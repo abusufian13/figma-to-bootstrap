@@ -1,0 +1,274 @@
+@font-face {
+    font-family: 'Circular Std';
+    src: url('../circular-std-font/CircularStd-Medium.eot');
+    src: url('../circular-std-font/CircularStd-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../circular-std-font/CircularStd-Medium.woff2') format('woff2'),
+        url('../circular-std-font/CircularStd-Medium.woff') format('woff'),
+        url('../circular-std-font/CircularStd-Medium.ttf') format('truetype'),
+        url('../circular-std-font/CircularStd-Medium.svg#CircularStd-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Circular Std';
+}
+.herobanner{
+    padding: 80px 0;
+    position: relative;
+}
+.herobanner .bgimg {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    opacity: 0.1;
+    z-index: -1;
+}
+.herobanner h1{
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 70px;
+    display: flex;
+    align-items: flex-end;
+    color: #176B3A;
+}
+ul li img {
+    max-width: 150px;
+}
+.logoimag{
+    max-width: 100px;
+}
+.herobanner p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #031F0F;
+}
+.banner-img {
+    max-width: 310px;
+}
+.subscribtionbox {
+    background-image: url(../image/round.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 77px;
+    border-radius: 30px;
+}
+.subscribtionbox h2{
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.subscribtionbox p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.subscribtionbox form{}
+.subscribtionbox form input{
+    background: transparent;
+    padding: 12px;
+}
+.form-control:focus {
+    color: #FFFFFF;
+    background-color: transparent;
+    border-color: #FFFFFF;
+    outline: 0;
+    box-shadow: 0 0 0 0 rgba(13,110,253,0);
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #FFFFFF !important;
+  }
+  ::-moz-placeholder { /* Firefox 19+ */
+    color: #FFFFFF !important;
+  }
+  :-ms-input-placeholder { /* IE 10+ */
+    color: #FFFFFF !important;
+  }
+  :-moz-placeholder { /* Firefox 18- */
+    color: #FFFFFF !important;
+  }
+.subscribtionbox form button{
+    background: #FFFFFF;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #176B3A;
+    padding: 12px 30px;
+    margin-top: 15px;
+}
+.subscribtionbox form button:hover{
+    background-color: transparent;
+    color: #FFFFFF;
+}
+.featuressection{}
+.groupimg img{}
+.featuressection .featurebox {
+    padding: 50px 120px;
+}
+.featuressection span{
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 30px;
+    color: #176B3A;
+}
+.featuressection h2{
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 63px;
+    color: #031F0F;
+}
+.featuressection p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #3D3D3D;
+}
+.groupimg2{}
+
+.grouptitel{
+    width: 440px;
+    height: 250px;
+}
+.grouptitel span{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #176B3A;
+}
+.grouptitel h3{
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 44px;
+    color: #031F0F;
+}
+.grouptitelbox{}
+.groupboxdesign{}
+.featuressection .grouptitel p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #031F0F;
+    margin-bottom: 30px;
+}
+.grouptitel button {
+    background: #176B3A;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    padding: 15px 100px;
+}
+.grouptitel button:hover{
+    background-color: #3D3D3D;
+    color: #FFFFFF;
+}
+
+.grouptitelbox h3{
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 44px;
+    color: #031F0F;
+}
+.grouptitelbox p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #031F0F;
+    margin-bottom: 30px;
+}
+.grouptitelbox button {
+    background: #176B3A;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    padding: 15px 40px;
+}
+.grouptitelbox button:hover{
+    background-color: #3D3D3D;
+    color: #FFFFFF;
+}
+.aboutussection{
+    padding: 130px 0;
+}
+.aboutusbox {
+    background-image: url(../image/Rectangle\ 10.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0 90px;
+    border-radius: 30px;
+}
+.aboutimg {
+    max-width: 310px;
+    translate: 0 -56px;
+}
+.aboutusbox h2{
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+.aboutusbox p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+.contantsection{
+    margin-bottom: 50px;
+}
+.contantsection .text-center {
+    text-align: center!important;
+    padding: 0px 155px;
+}
+.contactimg {
+    width: 127.06px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+.contantsection h2{
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 63px;
+    text-align: center;
+    color: #176B3A;
+    margin-bottom: 10px;
+}
+.contantsection p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #3D3D3D;
+}
+.contantsection span{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #3D3D3D;
+}
+.contactnav {
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.footersection {
+    margin-top: 80px;
+}
+.footersection span{
+    font-size: 16px;
+    line-height: 19px;
+    color: #031F0F;
+    opacity: 0.5;
+}

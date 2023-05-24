@@ -1,0 +1,592 @@
+ @media (max-width: 1439px){
+    .herobanner h1 {
+        font-size: 51px;
+        line-height: 60px;
+    }
+    .herobanner p{
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .banner-img {
+        max-width: 290px;
+    }
+    .subscribtionbox h2 {
+        font-size: 45px;
+        line-height: 52px;
+    }
+    .subscribtionbox p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .featuressection h2 {
+        font-size: 45px;
+        line-height: 60px;
+    }
+    .featuressection p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .groupimg img {
+        max-width: 300px;
+    }
+    .grouptitel span {
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .grouptitel {
+        width: 385px;
+        height: 230px;
+    }
+    .grouptitel h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .featuressection .grouptitel p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .grouptitelbox h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .featuressection p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .grouptitelbox button {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .aboutusbox h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .aboutusbox p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .aboutimg {
+        max-width: 260px;
+    }
+    .aboutusbox {
+        padding: 0 70px;
+    }
+    .contactimg {
+        width: 120.06px;
+        height: 55px;
+    }
+    .contantsection h2 {
+        font-size: 44px;
+        line-height: 56px;
+    }
+    .contantsection p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .contantsection span {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    
+}
+@media(max-width: 1199px) {
+    .herobanner h1 {
+        font-size: 41px;
+        line-height: 55px;
+    }
+    .herobanner {
+        padding: 65px 0;
+    }
+    .banner-img {
+        max-width: 240px;
+    }
+    .herobanner p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .subscribtionbox h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .subscribtionbox p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .subscribtionbox {
+        padding: 55px 65px;
+    }
+    .featuressection .featurebox {
+        padding: 40px 100px;
+    }
+    .featuressection h2 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .grouptitel span {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .grouptitel h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .featuressection .grouptitel p {
+        font-size: 14px;
+        line-height: 22px;
+        max-width: 262px;
+    }
+    .grouptitel button {
+        padding: 12px 80px;
+    }
+    .grouptitelbox h3 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .featuressection p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .grouptitelbox button {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 12px 25px;
+    }
+    .groupimg img {
+        max-width: 260px;
+    }
+    .grouptitel {
+        width: 325px;
+        height: 210px;
+    }
+    .aboutussection {
+        padding: 80px 0;
+    }
+    .aboutusbox {
+        padding: 0 30px;
+    }
+    .aboutimg {
+        max-width: 225px;
+        translate: 0 -42px;
+    }
+    .aboutusbox h2 {
+        font-size: 36px;
+        line-height: 43px;
+    }
+    .aboutusbox p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .contactimg {
+        width: 110.06px;
+        height: 50px;
+    }
+    .contantsection h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .contantsection p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .contantsection span {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .footersection .py-4 {
+        padding-top: 1rem!important;
+        padding-bottom: 1rem!important;
+    }
+    .contantsection .text-center {
+        text-align: center!important;
+        padding: 0px 130px;
+    }
+}
+
+@media(max-width: 991px){
+    ul li img {
+        max-width: 110px;
+    }
+    .logoimag {
+        max-width: 60px;
+    }
+    .herobanner h1 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .banner-img {
+        max-width: 140px;
+    }
+    .herobanner p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .subscribtionbox h2 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .subscribtionbox p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .subscribtionbox form input {
+        padding: 8px;
+    }
+    .subscribtionbox form button {
+        padding: 8px 20px;
+    }
+    .subscribtionbox {
+        padding: 50px 50px;
+    }
+    .featuressection .featurebox {
+        padding: 40px 88px;
+    }
+    .groupimg img {
+        max-width: 160px;
+    }
+    .grouptitel {
+        width: 238px;
+    }
+    .featuressection span {
+        font-size: 12px;
+        line-height: 18px;
+        letter-spacing: 2px;
+    }
+    .featuressection h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .grouptitel h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .featuressection .grouptitel p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .grouptitel button {
+        padding: 12px 30px;
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .grouptitelbox h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .featuressection p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .grouptitelbox button {
+        font-size: 10px;
+        line-height: 14px;
+        padding: 12px;
+    }
+    .aboutimg {
+        max-width: 160px;
+        translate: 0 -32px;
+    }
+    .aboutusbox h2 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .aboutusbox p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .contactimg {
+        width: 90.06px;
+        height: 40px;
+    }
+    .contantsection .text-center {
+        padding: 0px 60px;
+    }
+    .contantsection h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .contantsection p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .contantsection span{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .bannersection .py-5 {
+        padding-top: 1rem!important;
+    }
+}
+
+@media(max-width: 767px){
+    .logoimag {
+        max-width: 50px;
+    }
+    ul li img {
+        max-width: 90px;
+    }
+    .gap-3 {
+        gap: 0.5rem!important;
+    }
+    .banner-img {
+        max-width: 150px;
+        margin-top: 30px;
+    }
+    .herobanner h1 {
+        font-size: 35px;
+        line-height: 45px;
+        text-align: center;
+    }
+    .herobanner p {
+        font-size: 15px;
+        line-height: 20px;
+        text-align: center;
+    }
+    .herobanner {
+        padding: 40px 0;
+    }
+    .subscribtionbox h2 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    .subscribtionbox p {
+        font-size: 13px;
+        line-height: 16px;
+        margin: 0;
+    }
+    .subscribtionbox form button {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .subscribtionbox form input {
+        padding: 6px;
+    }
+    ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+        color: #FFFFFF !important;
+        font-size: 14px !important;
+      }
+      ::-moz-placeholder { /* Firefox 19+ */
+        color: #FFFFFF !important;
+      }
+      :-ms-input-placeholder { /* IE 10+ */
+        color: #FFFFFF !important;
+      }
+      :-moz-placeholder { /* Firefox 18- */
+        color: #FFFFFF !important;
+      }
+      .subscribtionbox {
+        padding: 35px 40px;
+    }
+    .featuressection h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .featuressection .featurebox {
+        padding: 20px 60px;
+    }
+    .featuressection span {
+        font-size: 10px;
+        line-height: 15px;
+        letter-spacing: 0px;
+    }
+    .groupimg img {
+        max-width: 135px;
+    }
+    .featuressection p {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .grouptitel {
+        width: 185px;
+        height: 170px;
+    }
+    .grouptitel h3 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .featuressection .grouptitel p {
+        font-size: 10px;
+        line-height: 15px;
+        margin-bottom: 15px;
+    }
+    .grouptitel button {
+        padding: 10px 25px;
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .grouptitelbox h3 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .featuressection p {
+        font-size: 10px;
+        line-height: 15px;
+        margin-bottom: 15px;
+    }
+    .grouptitelbox button {
+        font-size: 10px;
+        line-height: 11px;
+        padding: 10px;
+    }
+    .aboutussection {
+        padding: 60px 0;
+    }
+    .aboutimg {
+        max-width: 130px;
+        translate: 0 -50px;
+    }
+    .aboutusbox h2 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .aboutusbox {
+        padding: 25px 25px;
+    }
+    .aboutusbox p {
+        margin: 0;
+    }
+    .contactimg {
+        width: 80.06px;
+        height: 40px;
+    }
+    .contantsection .text-center {
+        padding: 0px 50px;
+    }
+    .contantsection h2 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .contantsection p {
+        font-size: 11px;
+        line-height: 17px;
+        margin-bottom: 5px;
+    }
+    .contantsection span {
+        font-size: 11px;
+        line-height: 17px;
+    }
+    .footersection span {
+        font-size: 12px;
+    }
+}
+@media(max-width: 575px){
+    .herobanner h1 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .herobanner p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .banner-img {
+        max-width: 100%;
+    }
+    .subscribtionbox h2 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .subscribtionbox p {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .subscribtionbox form button {
+        width: 100%;
+    }
+    .featuressection h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .subscribtionbox {
+        padding: 30px 40px;
+    }
+    .featuressection p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .featuressection .featurebox {
+        padding: 3rem;
+    }
+    .groupimg img {
+        max-width: 100%;
+    }
+    .grouptitel {
+        width: 100%;
+        margin-top: 30px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .featuressection .grouptitel p {
+        font-size: 15px;
+        line-height: 20px;
+        max-width: 100%;
+    }
+    .featuressection span {
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+    .grouptitel h3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .grouptitel button {
+        font-size: 15px;
+        line-height: 16px;
+        width: 100%;
+    }
+    .grouptitelbox {
+        margin-top: 40px;
+        text-align: center;
+    }
+    .grouptitelbox h3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .featuressection p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .grouptitelbox button {
+        font-size: 15px;
+        line-height: 22px;
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .aboutusbox {
+        padding: 0px 50px;
+        text-align: center;
+    }
+    .aboutimg {
+        max-width: 100%;
+        translate: 0 -50px;
+    }
+    .aboutusbox h2 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .aboutusbox p {
+        margin-bottom: 40px;
+    }
+    .contantsection .text-center {
+        padding: 0px 40px;
+    }
+    .contantsection h2 {
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .contantsection p {
+        font-size: 13px;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .contantsection span {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .contactnav {
+        margin-top: 25px;
+    }
+    .footersection {
+        margin-top: 50px;
+    }
+  
+}
